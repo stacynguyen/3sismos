@@ -11,7 +11,7 @@ It's a simple problem with a straightforward solution. A nice twist is that the 
 code is simpler and more intuitive than the one with binomials. It can be used for a course
 along the lines of "how to do probability and statistics with code only".
 
-[The explantion](Tres Sismos.pdf)
+[The explantion]("Tres Sismos.pdf")
 
 
 # Code
@@ -21,7 +21,7 @@ Three sources in stand-alone Java
 
 # Data
 
-[Source data of earthquakes in MX 1900-2022 from the Servicio Sismológico Nacional, csv file](SSNMX_catalogo_19000101_20220922)
+[Source data of earthquakes in MX 1900-2022 from the Servicio Sismológico Nacional, csv file](SSNMX_catalogo_19000101_20220922.csv)
 
 
 ## Status

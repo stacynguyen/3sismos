@@ -11,7 +11,7 @@ It's a simple problem with a straightforward solution. A nice twist is that the 
 code is simpler and more intuitive than the one with binomials. It can be used for a course
 along the lines of "how to do probability and statistics with code only".
 
-[The explantion]("Tres Sismos.pdf")
+[The explantion](Tres%20Sismos.pdf)
 
 
 # Code
